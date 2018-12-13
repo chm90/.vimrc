@@ -1,3 +1,4 @@
+set encoding=utf-8
 set number "Display line numbers
 set list "List all whitespace chars
 set listchars=eol:<,tab:>-,trail:~,extends:>,precedes:< "Set what caracters to use for the listing
